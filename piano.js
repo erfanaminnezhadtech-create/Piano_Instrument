@@ -1,5 +1,3 @@
-// Developed By Engineer Elhamuddin Taheri
-// B.Sc in Software Engineering (Kabul University) 
 
 // getting key elements
 let k1 = document.querySelector('#k1');
