@@ -1,4 +1,3 @@
-
 // getting key elements
 let k1 = document.querySelector('#k1');
 let k2 = document.querySelector('#k2');
